@@ -1,0 +1,6 @@
+{
+  "name": "Canteen Operations & Task Management",
+  "description": "AI-powered canteen management system featuring task and project tracking, kitchen operational priorities, progress analytics, and intelligent assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
